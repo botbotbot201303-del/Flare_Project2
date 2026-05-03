@@ -1,4 +1,4 @@
--- This script was generated using the MoonVeil Obfuscator v1.4.5 [https://moonveil.cc]
+-- This Current Build In Script Is Beta
 
 local Il,Sb,vG,fC,io,Ib=pairs,getmetatable,bit32.bxor,type
 local fF,Qd,ab,K,Kk,he,kD,Iw,ju,Au,zy,vi,Bo,wh_,bk,pk,j,Tw,CF,Nw,XC,Ko,tq,eA,Vp;
